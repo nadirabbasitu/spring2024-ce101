@@ -446,6 +446,8 @@ var library = (function () {
             function populateDetails(data) {
                 const descriptionElement = document.getElementById('description');
                 descriptionElement.textContent = data.course_description;
+                const guideElement = document.getElementById('guide');
+                guideElement.textContent = data.guide_tutorial;
             }
 
             function populateTools(data) {
