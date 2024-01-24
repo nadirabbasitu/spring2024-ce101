@@ -29,7 +29,7 @@ seo:
 <p id="description"></p>
 
 <!-- Guide Links -->
-<p id="guide"></p>
+<p id="guide">Click here for Video Guide Link</p>
 
 <div id="loader"></div>
 
