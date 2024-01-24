@@ -29,7 +29,7 @@ seo:
 <p id="description"></p>
 
 <!-- Guide Links -->
-<a href="https://github.com/nadirabbasitu/Material-Guides-and-Video-Tutorials">Click here for Video Guide Link</a>
+<a id="guide">{{site.guide}}</a>
 
 <div id="loader"></div>
 
