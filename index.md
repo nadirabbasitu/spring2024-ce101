@@ -29,7 +29,7 @@ seo:
 <p id="description"></p>
 
 <!-- Guide Links -->
-<a id="guide">{{site.guide}}</a>
+<a href="{{site.guide}}" id="guide">Material Guides and Video Tutorials</a>
 
 <div id="loader"></div>
 
