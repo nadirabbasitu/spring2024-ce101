@@ -447,7 +447,7 @@ var library = (function () {
                 const descriptionElement = document.getElementById('description');
                 descriptionElement.textContent = data.course_description;
                 const guideElement = document.getElementById('guide');
-                guideElement.textContent = data.guide_tutorial;
+                guideElement.href = data.guide_tutorial;
             }
 
             function populateTools(data) {
