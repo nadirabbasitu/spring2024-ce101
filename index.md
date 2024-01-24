@@ -28,6 +28,9 @@ seo:
 <!-- Site Description -->
 <p id="description"></p>
 
+<!-- Guide Links -->
+<p id="guide"></p>
+
 <div id="loader"></div>
 
 <script src="https://nadirabbasitu.github.io/spring2024-ce101/assets/js/library.js"></script>
